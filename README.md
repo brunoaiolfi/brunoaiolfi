@@ -6,11 +6,16 @@
  
 </div> 
 
+<br/>
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoaiolfi&show_icons=true&hide=stars,issues&theme=dark&hide_rank=true"/><br>
+<br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaiolfi&layout=compact&theme=dark"/>
  </a>
 </div> 
+
+<br/>
 
  <div>
 <h3 align="center">Main Programming Language (React and React Native):</h3>
@@ -20,7 +25,8 @@
 </p>
  </div>
  
-   ##
+
+<br/>
    
  <div>
  <h3 align="center">Frontend Development:</h3>
@@ -34,8 +40,8 @@
  </p>
  </div>
  
-   ##
-   
+
+<br/>
 
    
  <div>
@@ -47,7 +53,7 @@
  </p>
  </div>
  
-   ##
+<br/>
 
  <div>
  <h3 align="center">Backend Development:</h3>
