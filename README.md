@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Eai beleza? 👋</h1>
  <p>🔅Front End and Mobile Dev🔅</p>
- <img src="https://c.tenor.com/CGIHMXu6m_4AAAAM/funny.gif" width="200%" height="200px"/>
+ <img src="https://c.tenor.com/CGIHMXu6m_4AAAAM/funny.gif" width="80%" height="600px"/>
  </a>
  
 </div> 
