@@ -1,6 +1,10 @@
 <div align="center">
 <h1>Eai beleza? 👋</h1>
- <p>🔅Front End and Mobile Dev🔅</p>
+
+ <p>
+ 🔅Front End and Mobile Dev🔅 <br/>
+ <a href="https://brunoaiolfi.github.io/portfolio/" > 👉 Um pouco sobre o meu trabalho 👈 </a> 
+ </p>
  <img src="https://c.tenor.com/CGIHMXu6m_4AAAAM/funny.gif" width="80%" height="600px"/>
  </a>
  
