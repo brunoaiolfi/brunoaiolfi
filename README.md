@@ -1,16 +1,16 @@
-### 🔅 Front End and Mobile Dev 🔅
+<p align="center">
+  🔅 Front End and Mobile Dev 🔅 <br />
  <a href="https://brunoaiolfi.github.io/portfolio/" > 👉 Um pouco sobre o meu trabalho 👈 </a> 
-
+</p>
 <br/>
-<div> 
+<div align="center">
+  
   <a href="https://www.linkedin.com/in/bruno-aiolfi-6a75b1203/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div class="stats">
-  <a>
+<div class="stats" align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoaiolfi&show_icons=true&hide=stars,issues&theme=tokyonight&hide_rank=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaiolfi&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
 </div>
 
 
@@ -25,7 +25,7 @@
  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 </div
 
 
