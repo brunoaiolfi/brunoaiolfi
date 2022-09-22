@@ -26,7 +26,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-</div
+</div>
+<br />
+<p align="center">
+ <a href="https://brunoaiolfi.github.io/buyMeACoffee/" align="center"> Buy me a coffee ☕. </a> 
+</p>
 
-
-<a href="https://brunoaiolfi.github.io/buyMeACoffee/" align="center"> Buy me a coffee ☕. </a> 
