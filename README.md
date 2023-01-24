@@ -13,10 +13,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaiolfi&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-
-<div class='frameworks'><br> 
+<div class='frameworks'><br>
 
 ### Tenho experiência com:
+
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" />       
  <img src="https://miro.medium.com/max/652/1*N0XV3gco7Ed4brMoxwdjVg.png" alt="Styledcomponents" width="40" height="40"/>
@@ -27,8 +27,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 </div>
+
+<img src="./snake.svg" alt="snake" width="40" height="40"/>
 <br />
 <p align="center">
  <a href="https://brunoaiolfi.github.io/buyMeACoffee/" align="center"> Buy me a coffee ☕. </a> 
 </p>
-
