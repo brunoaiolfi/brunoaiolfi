@@ -28,7 +28,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 </div>
 
-<img src="./snake.svg" alt="snake" width="40" height="40"/>
+<img src="./snake.svg" alt="snake" width="100%" />
 <br />
 <p align="center">
  <a href="https://brunoaiolfi.github.io/buyMeACoffee/" align="center"> Buy me a coffee ☕. </a> 
