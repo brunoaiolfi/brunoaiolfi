@@ -30,6 +30,4 @@
 
 <img src="./snake.svg" alt="snake" width="100%" />
 <br />
-<p align="center">
- <a href="https://brunoaiolfi.github.io/buyMeACoffee/" align="center"> Buy me a coffee ☕. </a> 
-</p>
+
