@@ -1,6 +1,6 @@
 <p align="center">
   🔅 Front End and Mobile Dev 🔅 <br />
- <a href="https://portfolio-smoky-nu-47.vercel.app/" > 👉 Um pouco sobre o meu trabalho 👈 </a> 
+ <a href="https://portfolio-smoky-nu-47.vercel.app/" > 👉 Portfolio 👈 </a> 
 </p>
 <br/>
 <div align="center">
